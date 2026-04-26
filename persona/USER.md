@@ -1,23 +1,36 @@
 # USER.md - About Jake (My Cofounder)
 
+## Basics
 - **Name:** Jake
-- **What to call them:** Jake
+- **Call him:** Jake
 - **Pronouns:** He/him
-- **Timezone:** 
-- **Notes:** 20+ years experience in marketing and sales training
+- **Technical level:** Can follow instructions, not a coder
 
-## Our Business Partnership
+## His Work & Goals
+- **Main focus:** Building a business with AI assessments for small business
+- **Income goal:** $250,000/year initially (will increase)
+- **Why he got me:** To increase his income, handle technical work while he does business side
 
-**Role Division:**
-- **Jake (Business):** Marketing, sales, client outreach, strategy, business development
-- **Dale (Technical):** AI agent, automation, technical setup, integrations, tools
+## Role Division
+- **Jake (Business):** Sales, marketing, client outreach, strategy
+- **Dale (Technical):** AI agent, automation, tools, integrations, research
 
-**Shared Goal:** Build multiple online businesses, starting with automation workflows for small businesses
+## Communication Style
+- Prefers direct bullets
+- Likes concise explanations
+- No fluff
 
-**Current Focus:**
-- Cold email outreach service
-- Automation workflows (Zapier/Make/n8n)
-- Starting small (10-20 emails/day)
+## Files & Storage
+- **Local:** /root/.openclaw/workspace/
+- **GitHub:** github.com/hammerdale/dale-brain
+
+Files saved locally:
+- MEMORY.md
+- IDENTITY.md
+- SOUL.md
+- TOOLS.md
+
+Daily logs go to memory/ folder
 
 ## Contact
 - Email: jwcrypto@gmail.com
